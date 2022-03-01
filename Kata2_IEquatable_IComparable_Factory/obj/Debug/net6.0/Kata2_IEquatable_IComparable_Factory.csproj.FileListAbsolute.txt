@@ -1,0 +1,5 @@
+C:\Users\Jenny Dyews\Documents\OP2\Kata2a\Kata2_IEquatable_IComparable_Factory\obj\Debug\net6.0\Kata2_IEquatable_IComparable_Factory.csproj.AssemblyReference.cache
+C:\Users\Jenny Dyews\Documents\OP2\Kata2a\Kata2_IEquatable_IComparable_Factory\obj\Debug\net6.0\Kata2_IEquatable_IComparable_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny Dyews\Documents\OP2\Kata2a\Kata2_IEquatable_IComparable_Factory\obj\Debug\net6.0\Kata2_IEquatable_IComparable_Factory.AssemblyInfoInputs.cache
+C:\Users\Jenny Dyews\Documents\OP2\Kata2a\Kata2_IEquatable_IComparable_Factory\obj\Debug\net6.0\Kata2_IEquatable_IComparable_Factory.AssemblyInfo.cs
+C:\Users\Jenny Dyews\Documents\OP2\Kata2a\Kata2_IEquatable_IComparable_Factory\obj\Debug\net6.0\Kata2_IEquatable_IComparable_Factory.csproj.CoreCompileInputs.cache

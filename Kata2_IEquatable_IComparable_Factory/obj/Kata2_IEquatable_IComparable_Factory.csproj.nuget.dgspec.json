@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jenny Dyews\\Documents\\OP2\\Kata2a\\Kata2_IEquatable_IComparable_Factory\\Kata2_IEquatable_IComparable_Factory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jenny Dyews\\Documents\\OP2\\Kata2a\\Kata2_IEquatable_IComparable_Factory\\Kata2_IEquatable_IComparable_Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jenny Dyews\\Documents\\OP2\\Kata2a\\Kata2_IEquatable_IComparable_Factory\\Kata2_IEquatable_IComparable_Factory.csproj",
+        "projectName": "Kata2_IEquatable_IComparable_Factory",
+        "projectPath": "C:\\Users\\Jenny Dyews\\Documents\\OP2\\Kata2a\\Kata2_IEquatable_IComparable_Factory\\Kata2_IEquatable_IComparable_Factory.csproj",
+        "packagesPath": "C:\\Users\\Jenny Dyews\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jenny Dyews\\Documents\\OP2\\Kata2a\\Kata2_IEquatable_IComparable_Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jenny Dyews\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
