@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kata2_IEquatable_IComparable_Factory
+namespace Kata2a_Inheritance
 {
     interface IMemberList
     {
@@ -13,8 +13,8 @@ namespace Kata2_IEquatable_IComparable_Factory
         /// </summary>
         /// <param name="idx"></param>
         /// <returns></returns>
-        public IMember this[int idx] { get; }  
-        
+        public IMember this[int idx] { get; }
+
         /// <summary>
         /// number of members in the list
         /// </summary>
@@ -34,4 +34,7 @@ namespace Kata2_IEquatable_IComparable_Factory
         void Sort();
 
     }
+
 }
+    
+
